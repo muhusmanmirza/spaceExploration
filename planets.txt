@@ -22,3 +22,8 @@ Europa
 Calisto
 Titan
 Triton
+
+Adding Artificial Satellites
+Sputnik 1
+Sputnik 2
+Explorer 1
